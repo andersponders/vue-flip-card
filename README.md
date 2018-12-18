@@ -38,6 +38,8 @@ Throw whatever you want in those slots
 ## Credits
 
 Addtl credits from Karakanb:
+
+
 The component is based on two main features: spark line and flip effect. The spark line is created with the amazing [vuetrend](https://github.com/QingWei-Li/vue-trend) component, which creates cool and customizable graphs. The flipping effect is implemented in pure CSS, and influenced from the tutorial [here](https://davidwalsh.name/css-flip). 
 
 ## Browser Support
