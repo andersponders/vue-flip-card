@@ -1,4 +1,6 @@
 ### vue-flip-card
+[demo](https://andersponders.github.io/vue-flip-card/demo/)
+
 
 <p align="center">
   Generic flip card that allows for completely arbitrary content on each side. Slot-ified version of Karakanb's awesome `vue-info-card` component, which you can find [here.](https://github.com/andersponders/vue-info-card)
