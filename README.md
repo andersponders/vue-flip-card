@@ -2,9 +2,7 @@
 [demo](https://andersponders.github.io/vue-flip-card/demo/)
 
 
-<p align="center">
-  Generic flip card that allows for completely arbitrary content on each side. Slot-ified version of Karakanb's awesome `vue-info-card` component, which you can find [here.](https://github.com/andersponders/vue-info-card)
-</p>
+Generic flip card that allows for completely arbitrary content on each side. Slot-ified version of Karakanb's awesome **vue-info-card** component, which you can find [here.](https://github.com/karakanb/vue-info-card)
 
 ## Installation
 FlipCard uses vuetify with md-icons as the icon that you click to flip the cards, but you can put whatever you want in there instead if you dont use vuetify.
@@ -42,6 +40,8 @@ Throw whatever you want in those slots
 ## Credits
 
 Addtl credits from Karakanb:
+
+
 The component is based on two main features: spark line and flip effect. The spark line is created with the amazing [vuetrend](https://github.com/QingWei-Li/vue-trend) component, which creates cool and customizable graphs. The flipping effect is implemented in pure CSS, and influenced from the tutorial [here](https://davidwalsh.name/css-flip). 
 
 ## Browser Support
