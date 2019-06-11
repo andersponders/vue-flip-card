@@ -9,8 +9,6 @@ FlipCard uses vuetify with md-icons as the icon that you click to flip the cards
 
 ## Usage
 
-Take a look at this sick example, right here boys:
-
 ```html
 <template>
   <FlipCard>
